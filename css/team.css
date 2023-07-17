@@ -21,10 +21,10 @@ nav .logo{
 }
 .btns{
     width: 90%;
+    margin: 20px auto;
 }
 .role{
     margin-left: -30px;
-    margin: 20px auto;
 }
 .green-btn{
     background-color: #638a55;
