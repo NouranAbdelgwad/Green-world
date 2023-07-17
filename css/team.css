@@ -19,7 +19,9 @@ nav .logo{
     color: #9BBA74 !important;
     font-size: 25px;
 }
-
+.btns{
+    width: 90%;
+}
 .green-btn{
     background-color: #638a55;
     color: #f8f8f8;
